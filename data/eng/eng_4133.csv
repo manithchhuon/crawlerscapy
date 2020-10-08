@@ -1,0 +1,75 @@
+FEATURED,Latest,News;SINGAPORE: Coin enthusiasts will be able to get their hands on commemorative coins for the Year of the Pig from three other places across Asia, after the Singapore Mint on Wednesday (Dec 26) unveiled the designs for coins from Bhutan, Macau and Cambodia.------The Mint had earlier announced the issue of ------Year of the Boar Singapore coins------ for 2019, to be issued on Jan 1.------CAMBODIA YEAR OF THE PIG COMMEMORATIVE COINS------The National Bank of Cambodia’s commemorative coins has a pig against a background of blooming peony flowers. The country’s famous Angkor Wat temple complex will be depicted on the other side.------The coin is of 1oz 999 fine silver and has a face value of 3,000 riels (S$1.02). The coin’s issue price is S$100, according to the Singapore Mint’s catalogue. ------
+------“HAPPIEST LUNAR COIN” FROM BHUTAN------Issued by the Royal Monetary Authority of Bhutan, the Happiest Lunar Coin series features zodiac animals and scenic attractions from Bhutan, according to the Singapore Mint.------“The boar is artistically depicted, exuding liveliness and vigour,” it said. “Its legs and ears are portrayed with large swirls and clouds, emphasising its robust features.”------The series is available in ¼ oz 999.9 fine gold as well as 1oz and 5oz 999 fine silver. ------The 5oz coin has a limited worldwide mintage of 1,000 pieces. In addition, the series includes 1oz and ½ oz 999 fine silver bullion versions, available in selected markets.------They are priced at S$128 for a 1oz 999 fine silver coin, S$700 for a 5oz 999 fine silver coin and S$720 for a 1/4 oz 999.9 fine gold colour coin.------MACAU COMMEMORATIVE COINS------Meanwhile, the Macau Year of the Pig coins will feature a “lively and robust pig” with hydrangeas on one side and Macau’s Na Tcha Temple, a UNESCO world heritage site, on the other.------The coins, issued by the Monetary Authority of Macau, are the last issue of the Macau Lunar Commemorative Coins series.------The series comes in three different coin types: 1/4oz 999.9 fine gold (S$1,228) as well as 1oz (S$208) and 5oz 999 fine silver (S$1,128).------All the coins will be issued on Jan 1 next year and will be available at the Singapore Mint’s Year of the Boar Lunar Fair. This will be held from Jan 1 to Jan 13 next year at the HDB Hub’s atrium in Toa Payoh.------Buyers can also purchase the coins online and at other Singapore Mint retail roadshows across Singapore in January and February next year.------Read more at ------←------ 6 Viets Imprison 6 Other Viets------Chinese Pair Steal 73 Phones from Oddar Meanchey Casino ------→------
+------Share This Post:------ ------// Share
+	jQuery( document ).ready( function () {
+		jQuery( '#twitter' ).sharrre( {
+			share          : {
+				twitter : true
+			},
+			template       : '<a class=box href=#><div class=count href=#>{total}</div><div class=share><i class="fa fa-twitter"></i></div></a>',
+			enableHover    : false,
+			enableTracking : true,
+			click          : function ( api, options ) {
+				api.simulateClick();
+				api.openPopup( 'twitter' );
+			}
+		} );
+		jQuery( '#facebook' ).sharrre( {
+			share          : {
+				facebook : true
+			},
+			template       : '<a class=box href=#><div class=count href=#>{total}</div><div class=share><i class="fa fa-facebook-square"></i></div></a>',
+			enableHover    : false,
+			enableTracking : true,
+			click          : function ( api, options ) {
+				api.simulateClick();
+				api.openPopup( 'facebook' );
+			}
+		} );
+		jQuery( '#googleplus' ).sharrre( {
+			share          : {
+				googlePlus : true
+			},
+			template       : '<a class=box href=#><div class=count href=#>{total}</div><div class=share><i class="fa fa-google-plus-square"></i></div></a>',
+			enableHover    : false,
+			enableTracking : true,
+			urlCurl        : 'https://cne.wtf/wp-content/themes/colormag-pro/js/sharrre/sharrre.php',
+			click          : function ( api, options ) {
+				api.simulateClick();
+				api.openPopup( 'googlePlus' );
+			}
+		} );
+		jQuery( '#pinterest' ).sharrre( {
+			share          : {
+				pinterest : true
+			},
+			template       : '<a class=box href=# rel=nofollow><div class=count href=#>{total}</div><div class=share><i class="fa fa-pinterest"></i></div></a>',
+			enableHover    : false,
+			enableTracking : true,
+			buttons        : {
+				pinterest : {
+					description : 'Singapore Mint unveils Year of the Pig coins from Asia'				}
+			},
+			click          : function ( api, options ) {
+				api.simulateClick();
+				api.openPopup( 'pinterest' );
+			}
+		} );
+	} );------ ------
+------You May Also Like------
+------
+------		------
+------UPDATE: Chinese Woman Injured In Hotel Fall------
+------ ------August 11, 2020------August 12, 2020------
+------cne------0------
+------
+------		------
+------Big Rain Floods Temple Town------
+------ ------September 14, 2019------September 14, 2019------
+------cne------0------
+------
+------		------
+------Protected: Hotel & Casino Suppliers Offering Best Price COVID-19 Protection------
+------ ------July 8, 2020------July 9, 2020------
+------cne------Leave a Reply ------Cancel reply------Your email address will not be published.------ Required fields are marked ------*------Comment------Name ------*------ ------Email ------*------ ------Website------ ------ ------
+
